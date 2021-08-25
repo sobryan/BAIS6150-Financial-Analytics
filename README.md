@@ -5,8 +5,8 @@ Please use the archive available at the link below instead of this repo. This re
 
 This repo is the unpacked archive from the book resources: http://cambridge.org/LaptopLab
 
-Book info:
-Financial Analytics with R
-ISBN: 9781107150751
-https://www.cambridge.org/us/academic/subjects/statistics-probability/statistics-econometrics-finance-and-insurance/financial-analytics-r-building-laptop-laboratory-data-science
+Book info:  
+- Title: Financial Analytics with R  
+- ISBN: 9781107150751  
+- URL: https://www.cambridge.org/us/academic/subjects/statistics-probability/statistics-econometrics-finance-and-insurance/financial-analytics-r-building-laptop-laboratory-data-science
 
