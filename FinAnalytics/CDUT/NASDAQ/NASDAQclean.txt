@@ -1,0 +1,2234 @@
+Symbol	Description
+AAL	American Airlines Group Inc.
+AAME	Atlantic American Corp
+AAON	Aaon Inc
+AAPL	Apple Inc
+AAWW	Atlas Air Worldwide Holdings
+AAXJ	All Country Asia Ex Jpn Idx MSCI Ishares
+ABAX	Abaxis Inc
+ABCB	Ameris Bancorp
+ABCD	Cambium Learning Group
+ABCO	The Advisory Board Company
+ABFS	Arkansas Best Corp
+ABIO	Arca Biopharma
+ABMD	Abiomed
+ABTL	Autobytel Inc
+ACAD	Acadia Pharmaceuticals Inc
+ACAS	American Capital
+ACAT	Arctic Cat Inc
+ACCL	Accelrys Inc
+ACET	Aceto Corp
+ACFC	Atlantic Coast Federal Corp
+ACFN	Acorn Energy
+ACGL	Arch Capital Group Ltd
+ACHC	Acadia Healthcare Company Inc
+ACHN	Achillion Pharmaceuticals
+ACIW	Aci Worldwide
+ACLS	Axcelis Technologies
+ACNB	Acnb Corp
+ACOR	Acorda Therapeutics
+ACPW	Active Power
+ACTG	Acacia Research Corp
+ACTS	Actions Semiconductor Co.
+ACUR	Acura Pharmaceuticals
+ACWI	ACWI Index MSCI Ishares
+ACWX	ACWI Ex-US Index MSCI Ishares
+ACXM	Acxiom Corp
+ADAT	Authentidate Holding
+ADBE	Adobe Systems Incorporated
+ADEP	Adept Technology
+ADES	Advanced Emissions Solutions Inc
+ADI	Analog Devices
+ADMP	Adamis Pharmaceuticl
+ADP	Automatic Data Processing
+ADRA	Asia 50 ADR Index Bldrs
+ADRD	Dev Mkts 100 ADR Index Bldrs
+ADRE	Emrg Mkts 50 ADR Index Bldrs
+ADRU	Europe 100 ADR Index Bldrs
+ADSK	Autodesk Inc
+ADTN	Adtran Inc
+ADUS	Addus Homecare Corp
+ADVS	Advent Software
+AEGN	Aegoin Corp
+AEGR	Aegerion Pharmaceuticals
+AEHR	Aehr Test Systems
+AEIS	Advanced Energy Industries
+AEPI	AEP Industries Inc
+AETI	American Electric Technologies
+AEY	Addvantage Technologies Group
+AEZS	Aeterna Zentaris
+AFAM	Almost Family Inc
+AFCB	Athens Bancshares Corp
+AFFX	Affymetrix
+AFOP	Alliance Fiber Optic Products
+AFSI	Amtrust Financial Services
+AGEN	Agenus Inc
+AGNC	American Capital Agency
+AGYS	Agilysys Inc
+AHGP	Alliance Holdings Gp L.P.
+AHPI	Allied Healthcare Products
+AIMC	Altra Holdings
+AINV	Apollo Investment Corp
+AIQ	Alliance Healthcare Services
+AIRM	Air Methods Corp
+AIRT	Air T Inc
+AIXG	Aixtron Se
+AKAM	Akamai Technologies
+AKRX	Akorn Inc
+ALCO	Alico Inc
+ALCS	Alco Stores Inc
+ALGN	Align Technology
+ALGT	Allegiant Travel Company
+ALIM	Alimera Sciences
+ALKS	Alkermes Plc
+ALLT	Allot Communications Ltd
+ALNY	Alnylam Pharmaceuticals
+ALOG	Analogic Corp
+ALOT	Astro-Med
+ALSK	Alaska Communications Systems
+ALTI	Altair Nanotechnologies Inc
+ALTR	Altera Corp
+AMAG	Amag Pharmaceuticals
+AMAP	Autonavi Holdings
+AMAT	Applied Materials
+AMBT	Ambient Corp
+AMCC	Applied Micro Circuits Corp
+AMCF	Andatee China Marine Fuel Services
+AMCN	Airmedia Group Inc
+AMED	Amedisys Inc
+AMGN	Amgen Inc
+AMIC	American Independence
+AMKR	Amkor Technology
+AMNB	American National Bankshares
+AMOT	Allied Motion Technologies
+AMOV	America Movil S.A.B. De C.V.
+AMRB	American River Bankshares
+AMRI	Albany Molecular Research
+AMRN	Amarin Corporation Plc
+AMRS	Amyris Inc
+AMSC	American Superconductor Corp
+AMSF	Amerisafe Inc
+AMSG	Amsurg Corp
+AMSWA	American Software
+AMWD	American Woodmark Corp
+AMZN	Amazon.Com Inc
+ANAC	Anacor Pharmaceuticals
+ANAD	Anadigics Inc
+ANAT	American National Insurance
+ANCB	Anchor Bancorp
+ANCI	American Caresource Holdings
+ANCX	Access National Corp
+ANDE	The Andersons
+ANEN	Anaren Inc
+ANGO	Angiodynamics
+ANIK	Anika Therapeutics Inc
+ANIP	ANI Pharmaceuticals Inc
+ANSS	Ansys Inc
+ANTH	Anthera Pharmaceuticals
+AOSL	Alpha and Omega Semiconductor
+APAGF	Apco Oil and Gas International
+APEI	American Public Education
+APOG	Apogee Enterprises
+APOL	Apollo Group
+APPY	Aspenbio Pharma
+APRI	Apricus Biosciences Inc
+APSA	Alto Palermo S.A.
+APWC	Asia Pac Wire &Cable
+ARAY	Accuray Incorporated
+ARCC	Ares Capital Corp
+ARCI	Appliance Recycling Centers
+ARCW	Arc Wireless Solutions
+ARDNA	Arden Group
+AREX	Approach Resources Inc
+ARIA	Ariad Pharmaceuticals
+ARII	American Railcar Industries
+ARIS	Ari Network Svcs
+ARKR	Ark Restaurants
+ARLP	Alliance Resource Partners L.P.
+ARMH	Arm Holdings Plc
+ARNA	Arena Pharmaceuticals
+AROW	Arrow Financial Corp
+ARQL	Arqule Inc
+ARRS	Arris Group Inc
+ARRY	Array Biopharma Inc
+ARTC	Arthrocare Corp
+ARTNA	Artesian Resources Corp
+ARTW	Art'S-Way Manufacturing Co.
+ARTX	Arotech Corp
+ARUN	Aruba Networks
+ARWR	Arrowhead Research Corp
+ASBC	Associated Banc-Corp
+ASBI	Ameriana Bancorp
+ASCMA	Ascent Media Corp
+ASEI	American Science and Engineering
+ASFI	Asta Funding
+ASMI	Asm International N.V.
+ASML	Asml Holding N.V.
+ASNA	Ascena Retail Group
+ASRV	Ameriserv Financial Inc
+ASRVP	Ameriserv Financial Inc
+ASTC	Astrotech Corp
+ASTE	Astec Industries
+ASTI	Ascent Solar Technologies
+ASTM	Aastrom Biosciences
+ASUR	Asure Software Inc
+ASYS	Amtech Systems
+ATAI	Ata Inc
+ATAX	America First Tax Exempt L.P.
+ATEA	Astea International
+ATEC	Alphatec Holdings
+ATHN	Athenahealth
+ATHX	Athersys
+ATLC	Atlanticus Holdings Corp
+ATLO	Ames National Corp
+ATMI	Atmi Inc
+ATML	Atmel Corp
+ATNI	Atlantic Tele-Network
+ATNY	Api Technologies
+ATRC	Atricure
+ATRI	Atrion Corp
+ATRM	Aetrium Inc
+ATRO	Astronics Corp
+ATRS	Antares Pharma
+ATSG	Air Transport Services Group Inc
+ATVI	Activision Blizzard Inc
+AUBN	Auburn National Bancorporation
+AUDC	Audiocodes Ltd
+AUXL	Auxilium Pharmaceuticals
+AVAV	Aerovironment
+AVEO	Aveo Pharmaceuticals
+AVGO	Avago Technologies
+AVHI	Av Homes Inc
+AVID	Avid Technology
+AVNR	Avanir Pharmaceuticals Inc
+AVNW	Aviat Networks
+AWRE	Aware Inc
+AXAS	Abraxas Petroleum Corp
+AXDX	Accelerate Diagnostics Inc
+AXFN	ACWI Ex-US Financials MSCI Ishares
+AXGN	Lectec Corp
+AXTI	Axt Inc
+AZPN	Aspen Technology
+BABY	Natus Medical Inc
+BAGL	Einstein Noah Restaurant Group
+BAGR	Diversified Restaurant Holdings Inc
+BAMM	Books-A-Million
+BANC	First Pactrust Bancorp
+BANF	Bancfirst Corp
+BANFP	Bancfirst Corp
+BANR	Banner Corp
+BASI	Bioanalytical Systems
+BAXS	Baxano Surgical Inc
+BBBY	Bed Bath & Beyond Inc
+BBCN	Bbcn Bancorp Inc
+BBEP	Breitburn Energy Partners L.P.
+BBGI	Beasley Broadcast Group
+BBNK	Bridge Capital Holdings
+BBRG	Bravo Brio Restaurant Group
+BBRY	Blackberry Limited
+BCBP	Bcb Bancorp Inc. [Nj]
+BCOR	Blucora Inc
+BCPC	Balchem Corp
+BCRX	Biocryst Pharmaceuticals
+BCSB	Bcsb Bancorp
+BDBD	Boulder Brands Inc
+BDE	Black Diamond
+BDGE	Bridge Bancorp
+BDMS	Birner Dental Management Services
+BDSI	Biodelivery Sciences International
+BEAT	Cardionet
+BEAV	BE Aerospace
+BEBE	Bebe Stores
+BECN	Beacon Roofing Supply
+BELFA	Bel Fuse Inc
+BELFB	Bel Fuse Inc
+BFIN	Bankfinancial Corp
+BGCP	Bgc Partners
+BGFV	Big 5 Sporting Goods Corp
+BGMD	Bg Medicine
+BICK	BICK Index First Trust
+BIDU	Baidu Inc
+BIIB	Biogen Idec Inc
+BIOD	Biodel Inc
+BIOF	Biofuel Energy
+BIOL	Biolase Technology
+BIOS	Bioscrip Inc
+BIRT	Actuate Corp
+BIS	Ultrashort Nasdaq Biotech Proshares
+BJRI	Bj's Restaurants
+BKCC	Blackrock Kelso Capital Corp
+BKEP	Blueknight Energy
+BKMU	Bank Mutual Corp
+BKSC	Bank of South Carolina
+BKYF	The Bank of Kentucky Financial
+BLDP	Ballard Power Systems
+BLDR	Builders Firstsource
+BLIN	Bridgeline Digital
+BLKB	Blackbaud Inc
+BMRC	Bank of Marin Bancorp
+BMRN	Biomarin Pharmaceutical Inc
+BMTC	Bryn Mawr Bank Corp
+BNCL	Beneficial Mutual Bancorp
+BNCN	BNC Bancorp
+BNSO	Bonso Electronics International
+BOBE	Bob Evans Farms
+BOCH	Bank of Commerce Holdings [Ca]
+BODY	Body Central
+BOFI	Bofi Holding
+BOKF	Bok Financial Corp
+BOLT	Bolt Technology Corp
+BONA	Bona Film Group Limited
+BONT	The Bon-Ton Stores
+BOOM	Dynamic Materials Corp
+BOSC	B.O.S. Better Online Solutions
+BOTA	Biota Pharmaceuticals Inc
+BOTJ	Bank of The Jame Fnl
+BPFH	Boston Private Financial Holdings
+BPHX	Bluephoenix Solutions
+BPOP	Popular Inc
+BPOPM	Popular Inc
+BPOPN	Popular Inc
+BRCD	Brocade Communications Systems
+BRCM	Broadcom Corp
+BREW	Craft Brewers Alliance Inc
+BRID	Bridgford Foods Corp
+BRKL	Brookline Bancorp
+BRKR	Bruker Corp
+BRKS	Brooks Automation
+BRLI	Bio-Reference Laboratories
+BSDM	Bsd Medical Corp
+BSET	Bassett Furniture Industries Inc
+BSFT	Broadsoft Inc
+BSPM	Biostar Pharmaceuticals
+BSQR	Bsquare Corp
+BSRR	Sierra Bancorp
+BSTC	Biospecifics Technologies Corp
+BTUI	Btu International
+BUR	Burcon Nutrascience
+BUSE	First Busey Corp
+BVA	Cordia Bancorp Inc
+BVSN	Broadvision
+BWEN	Broadwind Energy
+BWINA	Baldwin & Lyons
+BWINB	Baldwin & Lyons
+BWLD	Buffalo Wild Wings
+BYBK	Bay Bancorp Inc
+BYFC	Broadway Financial Corp
+CA	CA Inc
+CAAS	China Automotive Systems
+CAC	Camden National Corp
+CACB	Cascade Bancorp
+CACC	Credit Acceptance Corp
+CACH	Cache Inc
+CADC	China Advanced Construction
+CADX	Cadence Pharmaceuticals
+CAFI	Camco Financial Corp
+CAKE	The Cheesecake Factory Inc
+CALD	Callidus Software
+CALI	China Auto Logistics Inc
+CALL	Vocaltec Communications Ltd
+CALM	Cal-Maine Foods
+CAMP	Calamp Corp
+CAMT	Camtek Ltd
+CAR	Avis Budget Group
+CART	Carolina Trust Bank
+CARV	Carver Bancorp
+CASH	Meta Financial Group
+CASM	Cas Medical Systems
+CASS	Cass Information Systems Inc
+CASY	Caseys General Stores
+CATM	Cardtronics Inc
+CATY	Cathay General Bancorp
+CAVM	Cavium Inc
+CBAK	China Bak Battery
+CBAN	Colony Bankcorp
+CBEY	Cbeyond Inc
+CBIN	Community Bank Shares of Indiana
+CBLI	Cleveland Biolabs
+CBMX	Combimatrix Corp
+CBNJ	Cape Bancorp
+CBNK	Chicopee Bancorp
+CBOE	CBOE Holdings
+CBPO	China Biologic Products
+CBRL	Cracker Barrel Old Country Store
+CBRX	Columbia Laboratories
+CBSH	Commerce Bancshares
+CBST	Cubist Pharmaceuticals
+CCBG	Capital City Bank Group
+CCCL	China Ceramics Co.
+CCIH	Chinacache International
+CCMP	Cabot Microelectronics Corp
+CCNE	Cnb Financial Corp
+CCOI	Cogent Communications Group
+CCRN	Cross Country Healthcare
+CCUR	Concurrent Computer Corp
+CDNS	Cadence Design Systems
+CDTI	Clean Diesel Technologies
+CDXS	Codexis Inc
+CDZI	Cadiz Inc
+CECE	Ceco Environmental
+CECO	Career Education Corp
+CEDU	Chinaedu Corp
+CENT	Central Garden & Pet Company
+CENTA	Central Garden & Pet Company
+CENX	Century Aluminum Company
+CERN	Cerner Corp
+CERS	Cerus Corp
+CETV	Central European Media Enterprises
+CEVA	Ceva Inc
+CFBK	Central Federal Corp
+CFFI	C&F Financial Corp
+CFFN	Capitol Federal Financial
+CFNB	California First National Bancorp
+CFNL	Cardinal Financial Corp
+CGEN	Compugen Ltd
+CGNX	Cognex Corp
+CGO	Calamos Global Total Return Fund
+CHCI	Comstock Homebuilding Companies
+CHCO	City Holding Company
+CHDN	Churchill Downs Inc
+CHDX	Chindex International
+CHEV	Cheviot Financial Corp
+CHFC	Chemical Financial Corp
+CHFN	Charter Financial
+CHI	Calamos Convertible Opportunities
+CHKE	Cherokee Inc
+CHKP	Check Point Software Technologies Ltd
+CHLN	China Housing & Land Development
+CHMG	Chemung Financial Corp
+CHNR	China Natural Resources
+CHOP	China Gerui Advanced Materials
+CHRM	Charm Communications Inc
+CHRW	C.H. Robinson Worldwide
+CHSCP	CHS Inc
+CHTP	Chelsea Therapeutics International
+CHW	Calamos Global Dynamic
+CHY	Calamos Convertible and High
+CHYR	Chyron Corp
+CIDM	Cinedigm Digital Cinema Corp
+CIFC	Cifc Corp
+CIMT	Cimatron Limited
+CINF	Cincinnati Financial Corp
+CISG	Cninsure Inc
+CIZN	Citizens Holding Company
+CJJD	China Jo-Jo Drugstores
+CKEC	Carmike Cinemas
+CKSW	Clicksoftware Technologies Ltd
+CLBH	Carolina Bank Holdings Inc
+CLCT	Collectors Universe
+CLDX	Celldex Therapeutics Inc
+CLFD	Clearfield
+CLMS	Calamos Asset Management
+CLMT	Calumet Specialty Products
+CLNE	Clean Energy Fuels
+CLNT	Cleantech Solutions International Inc
+CLRO	Clearone Communications Inc
+CLRX	Tegal Corp
+CLSN	Celsion Corp
+CLUB	Town Sports International Holdings
+CLWT	Euro Tech Holdings Company
+CMCO	Columbus Mckinnon Corp
+CMCSA	Comcast Corp
+CME	Cme Group Inc
+CMLS	Cumulus Media Inc
+CMSB	Cms Bancorp
+CMTL	Comtech Telecommunications
+CNBC	Center Bancorp
+CNBKA	Century Bancorp
+CNET	Chinanet Online Holdings
+CNIT	China Information Technology
+CNMD	Conmed Corp
+CNQR	Concur Technologies
+CNSL	Consolidated Communications Holdings
+CNTF	China Techfaith Wireless
+CNTY	Century Casinos
+CNYD	China Yida Holding Co.
+COA	Coastal Contacts Inc
+COB	Solarwinds Inc
+COBK	Colonial Financial Services
+COBR	Cobra Electronics Corp
+COBZ	Cobiz Financial Inc
+COCO	Corinthian Colleges
+COHR	Coherent Inc
+COHU	Cohu Inc
+COKE	Coca-Cola Bottling Co. Consolidated
+COLB	Columbia Banking System
+COLM	Columbia Sportswear Company
+COOL	Majesco Entertainment Company
+CORE	Core-Mark Holding Company
+CORT	Corcept Therapeutics Inc
+COSI	Cosi Inc
+COST	Costco Wholesale Corp
+COWN	Cowen Group
+CPAH	Counterpath Corp
+CPGI	China Shengda Packaging Group
+CPHC	Canterbury Park Holding Corp
+CPHD	Cepheid
+CPIX	Cumberland Pharmaceuticals Inc
+CPLA	Capella Education Company
+CPLP	Capital Product Partners L.P.
+CPRT	Copart Inc
+CPRX	Catalyst Pharmaceutical Partners
+CPSI	Computer Programs and Systems
+CPSL	China Precision Steel
+CPST	Capstone Turbine Corp
+CPWR	Compuware Corp
+CRAI	Cra Internationalinc.
+CRAY	Cray Inc
+CRDC	Cardica Inc
+CRDS	Crossroads Systems
+CREG	China Recycling Energy Corp
+CRESY	Cresud S.A.C.I.F. Y A.
+CRIS	Curis Inc
+CRMB	Crumbs Bake Shop Inc
+CRME	Cardiome Pharma Corp
+CRMT	America's Car-Mart
+CRNT	Ceragon Networks Ltd
+CROX	Crocs Inc
+CRRC	Courier Corp
+CRRS	Corp Res Svcs Inc
+CRUS	Cirrus Logic
+CRVL	Corvel Corp
+CRWN	Crown Media Holdings
+CRWS	Crown Crafts
+CRZO	Carrizo Oil & Gas
+CSBK	Clifton Savings Bancorp
+CSCD	Cascade Microtech
+CSCO	Cisco Systems
+CSFL	Centerstate Banks
+CSGP	Costar Group
+CSGS	Csg Systems International
+CSII	Cardiovascular Systems
+CSIQ	Canadian Solar Inc
+CSPI	Csp Inc
+CSQ	Calamos Strategic Total Return Fund
+CSUN	China Sunergy Co.
+CSWC	Capital Southwest Corp
+CTAS	Cintas Corp
+CTBI	Community Trust Bancorp
+CTCH	Commtouch Software Ltd
+CTCM	Ctc Media
+CTCT	Constant Contact
+CTG	Computer Task Group Inc
+CTHR	Charles & Colvard Ltd
+CTIB	Cti Industries Corp
+CTIC	Cell Therapeutics
+CTRN	Citi Trends
+CTRP	Ctrip.Com International
+CTSH	Cognizant Technology Solutions
+CTWS	Connecticut Water Service
+CTXS	Citrix Systems
+CU	ISE Global Copper Index First Trust
+CUBA	The Herzfeld Caribbean Basin Fund
+CUNB	California United Bk
+CUTR	Cutera Inc
+CVBF	Cvb Financial Corp
+CVCO	Cavco Industries
+CVCY	Central Valley Community Bancorp
+CVGI	Commercial Vehicle Group
+CVGW	Calavo Growers
+CVLT	Commvault Systems
+CVLY	Codorus Valley Bancorp Inc
+CVTI	Covenant Transportation Group
+CVV	CVD Equipment Corp
+CWBC	Community West Bancshares
+CWCO	Consolidated Water Co. Ltd
+CWST	Casella Waste Systems
+CWTR	Coldwater Creek
+CXDC	China Xd Plastics Company
+CY	Cypress Semiconductor Corp
+CYAN	Cyanotech Corp
+CYBE	Cyberoptics Corp
+CYCC	Cyclacel Pharmaceuticals
+CYCCP	Cyclacel Pharmaceuticals
+CYNO	Cynosure Inc
+CYOU	Changyou.Com Limited
+CYTK	Cytokinetics Inc
+CYTR	Cytrx Corp
+CYTX	Cytori Therapeutics Inc
+CZFC	Citizens First Corp
+CZNC	Citizens & Northern Corp
+CZWI	Citizens Community Bancorp
+DAEG	Unify Corp
+DAIO	Data I/O Corp
+DAKT	Daktronics
+DARA	Dara Biosciences
+DAVE	Famous Dave's of America
+DBLE	Double Eagle Petroleum Company
+DBLEP	Double Eagle Petroleum Company
+DCIX	Diana Containerships Inc
+DCOM	Dime Community Bancshares
+DCTH	Delcath Systems
+DECK	Deckers Outdoor Corp
+DENN	Denny's Corp
+DEPO	Depomed Inc
+DEST	Destination Maternity Corp
+DFZ	R.G. Barry Corp
+DGAS	Delta Natural Gas Company
+DGICA	Donegal Group
+DGICB	Donegal Group
+DGII	Digi International Inc
+DGLY	Digital Ally
+DHIL	Diamond Hill Investment Group
+DHRM	Dehaier Medical Systems
+DIOD	Diodes Inc
+DISCA	Discovery Communications Inc
+DISCB	Discovery Communications Inc
+DISCK	Discovery Communications Inc
+DISH	Dish Network Corp
+DJCO	Daily Journal Corp. [S.C.]
+DLHC	Dlh Holdings Corp
+DLIA	Delia*S Inc
+DLLR	Dollar Financial
+DLTR	Dollar Tree
+DMLP	Dorchester Minerals L.P.
+DMND	Diamond Foods
+DMRC	Digimarc Corp
+DNBF	Dnb Financial Corp
+DNDN	Dendreon Corp
+DORM	Dorman Products
+DOVR	Dover Saddlery
+DOX	Amdocs Limited
+DRAD	Digirad Corp
+DRAM	Dataram Corp
+DRIV	Digital River
+DRRX	Durect Corp
+DRWI	Dragonwave Inc
+DRYS	Dryships Inc
+DSCI	Derma Sciences
+DSCO	Discovery Laboratories
+DSGX	The Descartes Systems Group Inc
+DSPG	DSP Group
+DSWL	Deswell Industries
+DTLK	Datalink Corp
+DTSI	DTS Inc
+DTV	Directv
+DVAX	Dynavax Technologies Corp
+DVCR	Diversicare Healthcare Services Inc
+DWA	Dreamworks Animation Skg
+DWSN	Dawson Geophysical Company
+DXCM	Dexcom Inc
+DXLG	Casual Male Retail Group
+DXPE	Dxp Enterprises
+DXYN	The Dixie Group
+DYAX	Dyax Corp
+DYNT	Dynatronics Corp
+DYSL	Dynasil Corporation of America
+EA	Electronic Arts Inc
+EBAY	Ebay Inc
+EBIX	Ebix Inc
+EBMT	Eagle Bancorp Montana
+EBSB	Meridian Interstate Bancorp
+EBTC	Enterprise Bancorp Inc
+ECHO	Echo Global Logistics
+ECOL	US Ecology
+ECPG	Encore Capital Group Inc
+ECTE	Echo Therapeutics
+ECYT	Endocyte Inc
+EDAP	Edap Tms S.A.
+EDGW	Edgewater Technology
+EDMC	Education Management Corp
+EDS	Exceed Company Ltd
+EDUC	Educational Development Corp
+EEFT	Euronet Worldwide
+EEI	Ecology and Environment
+EFII	Electronics For Imaging
+EFSC	Enterprise Financial Services Corp
+EFUT	Efuture Information Technology Inc
+EGAN	Egain Comm Corp
+EGBN	Eagle Bancorp
+EGHT	8X8 Inc
+EGLE	Eagle Bulk Shipping Inc
+EGOV	Nic Inc
+EGT	Entertainment Gaming Asia Inc
+EHTH	Ehealth Inc
+ELGX	Endologix Inc
+ELNK	Earthlink Inc
+ELON	Echelon Corp
+ELOS	Syneron Medical Ltd
+ELRC	Electro Rent Corp
+ELSE	Electro-Sensors
+ELTK	Eltek Ltd
+EMCF	Emclaire Financial Corp
+EMCI	EMC Insurance Group
+EMFN	Emrg Mkts Financials Idx MSCI Ishares
+EMIF	S&P Emrg Mkts Infrastructure Ishares
+EMITF	Elbit Imaging Ltd
+EMKR	Emcore Corp
+EML	Eastern Company
+EMMS	Emmis Communications Corp
+EMMSP	Emmis Communications Corp
+EMMT	Emrg Mkts Materials Idx MSCI Ishares
+ENDP	Endo Pharmaceuticals Holdings Inc
+ENG	Englobal Corp
+ENMD	Entremed Inc
+ENOC	Enernoc Inc
+ENSG	The Ensign Group
+ENTG	Entegris Inc
+ENTR	Entropic Communications
+ENZN	Enzon Pharmaceuticals
+EONC	Eon Communications Corp
+EPAX	Ambassadors Group
+EPAY	Bottomline Technologies
+EPIQ	Epiq Systems
+EQIX	Equinix Inc
+ERIC	Lm Ericsson Telephone Company
+ERIE	Erie Indemnity Company
+ERII	Energy Recovery
+EROC	Eagle Rock Energy Partners L.P.
+ESBF	Esb Financial Corp
+ESBK	Elmira Savings Bank Fsb
+ESCA	Escalade Inc
+ESEA	Euroseas Ltd
+ESGR	Enstar Group Limited
+ESIO	Electro Scientific Industries
+ESLT	Elbit Systems Ltd
+ESMC	Escalon Medical
+ESRX	Express Scripts
+ESSA	Essa Bancorp
+ESSX	Essex Rental Corp
+ESXB	Community Bankers Trust Corp
+ESYS	Elecsys Corp
+ETFC	E*Trade Financial Corp
+ETRM	Enteromedics Inc
+EUFN	Europe Financials Index MSCI Ishares
+EVBS	Eastern Virginia Bankshares
+EVEP	Ev Energy Partners L.P.
+EVOL	Evolving Systems
+EWBC	East West Bancorp
+EXAC	Exactech Inc
+EXAS	Exact Sciences Corp
+EXEL	Exelixis Inc
+EXFO	Exfo Inc
+EXLP	Exterran Partners L.P.
+EXLS	Exlservice Holdings
+EXPD	Expeditors International of Washington
+EXPE	Expedia Inc
+EXPO	Exponent Inc
+EXTR	Extreme Networks
+EXXI	Energy Xxi [Bermuda] Limited
+EZCH	Ezchip Semiconductor Limited
+EZPW	Ezcorp Inc
+FALC	Falconstor Software
+FARM	Farmer Brothers Company
+FARO	Faro Technologies
+FAST	Fastenal Company
+FBIZ	First Business Financial Services
+FBMI	Firstbank Corp
+FBMS	The First Bancshares
+FBNC	First Bancorp
+FBRC	Fbr & Co
+FBSS	Fauquier Bankshares
+FCAP	First Capital
+FCBC	First Community Bancshares
+FCCO	First Community Corp
+FCCY	1St Constitution Bancorp [Nj]
+FCEL	Fuelcell Energy
+FCFS	First Cash Financial Services
+FCHI	FTSE China [Hk Listed] Index Ishares
+FCLF	First Clover Leaf Financial
+FCNCA	First Citizens Bancshares
+FCTY	1St Century Bancshares Inc
+FCVA	First Capital Bancorp Inc. [Va]
+FCZA	First Citizens Banc
+FDEF	First Defiance Financial
+FDML	Federal-Mogul Corp
+FEFN	Far East Financials Index MSCI Ishares
+FEIC	Fei Company
+FEIM	Frequency Electronics
+FELE	Franklin Electric Co.
+FES	Forbes Energy Svcs
+FFBC	First Financial Bancorp
+FFBH	First Federal Bancshares of Arkansas
+FFCO	Fedfirst Financial Corp
+FFHL	Fuwei Films Co.
+FFIC	Flushing Financial Corp
+FFIN	First Financial Bankshares
+FFIV	F5 Networks
+FFKT	Farmers Capital Bank Corp
+FFKY	First Financial Service Corp
+FFNM	First Federal of Northern Michigan Bancorp
+FFNW	First Financial Northwest
+FHCO	Female Health Company
+FIBK	First Interstate Bancsystem
+FINL	The Finish Line
+FISI	Financial Institutions
+FISV	Fiserv Inc
+FITB	Fifth Third Bancorp
+FIZZ	National Beverage
+FLEX	Flextronics International Ltd
+FLIC	The First of Long Island Corp
+FLIR	Flir Systems
+FLL	Full House Resorts
+FLML	Flamel Technologies S.A.
+FLWS	1-800 Flowers.Com
+FLXS	Flexsteel Industries
+FMBI	First Midwest Bancorp
+FMER	Firstmerit Corp
+FMNB	Farmers Natl Banc Corp Oh
+FNFG	First Niagara Financial Group Inc
+FNGN	Financial Engines
+FNHC	21St Century Holding Company
+FNLC	First Bancorp Inc [Me]
+FNRG	Forcefield Energy Inc
+FNSR	Finisar Corp
+FOLD	Amicus Therapeutics
+FONR	Fonar Corp
+FORD	Forward Industries
+FORM	Formfactor
+FORR	Forrester Research
+FORTY	Formula Systems Ltd
+FOSL	Fossil Inc
+FOX	21St Century Fox Class B
+FOXA	21St Century Fox Class A
+FRBA	First Bank [Nj]
+FRBK	Republic First Bancorp
+FRED	Fred's Inc
+FREE	Freeseas Inc
+FRME	First Merchants Corp
+FRP	Fairpoint Communications
+FSBK	First South Bancorp Inc
+FSC	Fifth Street Finance Corp
+FSFG	First Savings Financial Group
+FSGI	First Security Group
+FSLR	First Solar
+FSRV	Firstservice Corp
+FSTR	L.B. Foster Company
+FSYS	Fuel Systems Solutions
+FTCS	Strategic Value Index First Trust
+FTEK	Fuel Tech
+FTNT	Fortinet Inc
+FTR	Frontier Communications Corp
+FUBC	1St United Bancorp Inc. [Fl]
+FULL	Full Circle Capital Corp
+FULT	Fulton Financial Corp
+FUNC	First United Corp
+FUND	Royce Focus Trust
+FURX	Furiex Pharmaceuticals
+FWLT	Foster Wheeler Ag.
+FWRD	Forward Air Corp
+FXCB	Fox Chase Bancorp
+FXEN	FX Energy
+GABC	German American Bancorp
+GAGA	Le Gaga Holdings
+GAI	Global-Tech Advanced Innovations Inc
+GAIA	Gaiam Inc
+GAIN	Gladstone Investment Corp
+GALE	Galena Biopharma
+GALT	Galectin Therapeutics Inc
+GAME	Shanda Games Limited
+GASS	Stealthgas
+GBCI	Glacier Bancorp
+GBDC	Golub Capital Bdc
+GBLI	Global Indemnity Plc
+GBNK	Guaranty Bancorp
+GCBC	Greene County Bancorp
+GENC	Gencor Industries Inc
+GENE	Genetic Technologies Ltd
+GEOS	Oyo Geospace Corp
+GERN	Geron Corp
+GFED	Guaranty Federal Bancshares
+GFN	General Finance Corp
+GGAL	Grupo Financiero Galicia S.A.
+GHDX	Genomic Health
+GIFI	Gulf Island Fabrication
+GIGA	Giga-Tronics Inc
+GIGM	Gigamedia Limited
+GIII	G-III Apparel Group
+GILD	Gilead Sciences
+GILT	Gilat Satellite Networks Ltd
+GIVN	Given Imaging Ltd
+GK	G&K Services
+GKNT	Geeknet Inc
+GLAD	Gladstone Capital Corp
+GLBS	Globus Maritime Limited
+GLBZ	Glen Burnie Bancorp
+GLCH	Gleacher & Company
+GLDC	Golden Enterprises
+GLDD	Great Lakes Dredge & Dock Corp
+GLNG	Golar Lng Limited
+GLPW	Global Power Equipment Group Inc
+GLRE	Greenlight Capital Re
+GLUU	Glu Mobile Inc
+GMAN	Gordmans Stores
+GMCR	Green Mountain Coffee Roasters
+GNCMA	General Communication
+GNMK	Genmark Diagnostics
+GNTX	Gentex Corp
+GNVC	Genvec Inc
+GOLD	Randgold Resources Limited
+GOOD	Gladstone Commercial Corp
+GOODO	Gladstone Commercial Corp
+GOODP	Gladstone Commercial Corp
+GOOG	Google Inc
+GPIC	Gaming Partners International Corp
+GPOR	Gulfport Energy Corp
+GPRC	Guanwei Recycling
+GPRE	Green Plains Renewable Energy
+GRID	Nasdaq Clean Edge Smart Grid First Trust
+GRIF	Griffin Land & Nurseries
+GRMN	Garmin Ltd
+GROW	U.S. Global Investors
+GRVY	Gravity Co.
+GSBC	Great Southern Bancorp
+GSIG	Gsi Group Inc
+GSIT	Gsi Technology
+GSM	Globe Specialty Metals Inc
+GSOL	Global Sources Ltd
+GT	Goodyear Tire & Rubber Company
+GTAT	Gt Advanced Technologies Inc
+GTIM	Good Times Restaurants Inc
+GTIV	Gentiva Health Services
+GTLS	Chart Industries
+GTWN	Georgetown Bancp Ma
+GTXI	GTX Inc
+GUID	Guidance Software
+GULF	Middle East Dividend Wisdomtree
+GURE	Gulf Resources
+GYRO	Gyrodyne Company of America
+HA	Hawaiian Holdings
+HAFC	Hanmi Financial Corp
+HAIN	Hain Celestial Group
+HALL	Hallmark Financial Services
+HALO	Halozyme Therapeutics
+HAS	Hasbro Inc
+HAST	Hastings Entertainment
+HAYN	Haynes International
+HBAN	Huntington Bancshares Inc
+HBANP	Huntington Bancshares Inc
+HBCP	Home Bancorp
+HBHC	Hancock Holding Company
+HBIO	Harvard Bioscience
+HBMD	Howard Bancorp MD
+HBNC	Horizon Bancorp [In]
+HBNK	Hampden Bancorp
+HBOS	Heritage Financial Group
+HBP	Huttig Bldg Products
+HCBK	Hudson City Bancorp
+HCCI	Heritage-Crystal Clean
+HCKT	The Hackett Group
+HCOM	Hawaiian Telcom Hold
+HCSG	Healthcare Services Group
+HDNG	Hardinge Inc
+HDSN	Hudson Technologies
+HEES	H&E Equipment Services
+HELE	Helen of Troy Limited
+HEOP	Heritage Oaks Bancorp
+HERO	Hercules Offshore
+HFBC	Hopfed Bancorp
+HFBL	Home Federal Bancorp Inc. of Louisiana
+HFFC	HF Financial
+HFWA	Heritage Financial Corp
+HGSH	China Hgs Real Estate
+HIBB	Hibbett Sports
+HIFS	Hingham Institution For Savings
+HIHO	Highway Holdings
+HILL	Dot Hill Systems Corp
+HIMX	Himax Technologies
+HITK	Hi-Tech Pharmacal Co.
+HITT	Hittite Microwave Corp
+HKTV	Hong Kong Television Network Ltd. Ads
+HLIT	Harmonic Inc
+HMIN	Home Inns & Hotels Management Inc
+HMNF	Hmn Financial
+HMNY	Helios & Matheson North America Inc
+HMPR	Hampton Roads Bankshares Inc
+HMSY	Hms Holdings Corp
+HNH	Handy & Harman Ltd
+HNRG	Hallador Energy Company
+HNSN	Hansen Medical
+HOFT	Hooker Furniture Corp
+HOLI	Hollysys Automation Technologies
+HOLL	Hollywood Media
+HOLX	Hologic Inc
+HOMB	Home Bancshares
+HOME	Home Federal Bancorp
+HOTR	Chanticleer Holdings Inc
+HOVNP	Hovnanian Enterprises Inc
+HPJ	Hong Kong Highpower Technology
+HRZN	Horizon Technology Finance Corp
+HSIC	Henry Schein
+HSII	Heidrick & Struggles International
+HSKA	Heska Corp
+HSNI	HSN Inc
+HSOL	Hanwha Solarone Co. Ltd
+HSON	Hudson Global Inc
+HSTM	Healthstream Inc
+HTBK	Heritage Commerce Corp
+HTCH	Hutchinson Technology Inc
+HTCO	Hickory Tech Corp
+HTHT	China Lodging Group Limited
+HTLD	Heartland Express
+HTLF	Heartland Financial USA
+HTWR	Heartware International
+HUBG	Hub Group
+HURC	Hurco Companies
+HURN	Huron Consulting Group Inc
+HWAY	Healthways Inc
+HWBK	Hawthorn Bancshares
+HWCC	Houston Wire & Cable Company
+HWKN	Hawkins Inc
+IACI	Iac/Interactivecorp
+IART	Integra Lifesciences Holdings Corp
+IBB	Nasdaq Biotechnology Ishares
+IBCA	Intervest Bancshares
+IBCP	Independent Bank Corp
+IBKC	Iberiabank Corp
+IBKR	Interactive Brokers Group
+IBOC	International Bancshares Corp
+ICAD	Icad Inc
+ICCC	Immucell Corp
+ICFI	Icf International
+ICGE	Internet Capital Group
+ICLN	S&P Global Clean Energy Index Ishares
+ICLR	Icon Plc
+ICON	Iconix Brand Group
+ICUI	Icu Medical
+IDCC	Interdigital
+IDIX	Idenix Pharmaceuticals
+IDRA	Idera Pharmaceuticals
+IDSA	Industrial Services of America
+IDSY	I.D. Systems
+IDTI	Integrated Device Technology
+IDXX	Idexx Laboratories
+IEP	Icahn Enterprises L.P.
+IFAS	FTSE Epra/Nareit Dev Asia Idx Ishares
+IFEU	FTSE Epra/Nareit Dev EU Idx Ishares
+IFGL	FTSE Epra/Nareit Dev Re Ex-US Ishares
+IFNA	FTSE Epra/Nareit North America Ishares
+IFON	Infosonics Corp
+IFSM	FTSE Dev Sm Cap Ex-North Amer Ishares
+IGLD	Internet Gold Golden Lines Ltd
+IGOV	S&P/Citi Intl Treasury Bond Ishares
+IGTE	Igate Corp
+III	Information Services Group
+IIIN	Insteel Industries
+IIJI	Internet Initiative Japan
+IILG	Interval Leisure Group
+IIN	Intricon Corp
+IIVI	Ii-Vi Inc
+IKAN	Ikanos Communications
+IKGH	Iao Kun Group Holding Co.
+IKNX	Ikonics Corp
+ILMN	Illumina Inc
+IMCB	Intermountain Comm
+IMGN	Immunogen
+IMKTA	Ingles Markets Inc
+IMMR	Immersion Corp
+IMMU	Immunomedics
+IMMY	Imprimis Pharmaceuticals Inc
+IMOS	Chipmos Technologies [Bermuda] Ltd
+IMRS	Imris Inc
+INAP	Internap Network Services Corp
+INBK	First Internet Bancorp
+INCY	Incyte Corp
+INDB	Independent Bank
+INDY	S&P India Nifty 50 Index Ishares
+INFA	Informatica Corp
+INFI	Infinity Pharmaceuticals
+INFN	Infinera Corp
+ININ	Interactive Intelligence
+INOD	Innodata Isogen Inc
+INPH	Interphase Corp
+INSM	Insmed Inc
+INSY	Insys Therapeutics Inc
+INTC	Intel Corp
+INTG	The Intergroup Corp
+INTL	Intl Fcstone Inc
+INTU	Intuit Inc
+INTX	Intersections
+INVE	Identive Group
+INWK	Innerworkings
+IOSP	Innospec Inc
+IPAR	Inter Parfums
+IPAS	Ipass Inc
+IPCC	Infinity Property and Casualty Corp
+IPCI	Intellipharmaceutics International Inc
+IPCM	IPC The Hospitalist Company
+IPGP	Ipg Photonics Corp
+IPHS	Innophos Holdings
+IPXL	Impax Laboratories
+IQNT	Neutral Tandem
+IRBT	Irobot Corp
+IRDM	Iridium Communications Inc
+IRDMZ	Iridium Communications Inc
+IRIX	Iridex Corp
+IRWD	Ironwood Pharmaceuticals
+ISCA	International Speedway Corp
+ISHG	S&P/Citi 1-3 Yr Intl Treasury Bd Ishares
+ISIG	Insignia Systems
+ISIL	Intersil Corp
+ISIS	Isis Pharmaceuticals
+ISLE	Isle of Capri Casinos
+ISM	SLM Corp
+ISNS	Image Sensing Systems
+ISRG	Intuitive Surgical
+ISRL	Isramco Inc
+ISSC	Innovative Solutions and Support
+ISSI	Integrated Silicon Solution
+ITIC	Investors Title Company
+ITMN	Intermune Inc
+ITRI	Itron Inc
+ITRN	Ituran Location and Control Ltd
+IVAC	Intevac Inc
+IVAN	Ivanhoe Energy
+IXYS	Ixys Corp
+JACK	Jack In The Box Inc
+JAKK	Jakks Pacific
+JASO	JA Solar Holdings Co.
+JAXB	Jacksonville Bancorp
+JAZZ	Jazz Pharmaceuticals
+JBHT	J.B. Hunt Transport Services
+JBLU	Jetblue Airways Corp
+JBSS	John B. Sanfilippo & Son
+JCOM	J2 Global Communications Inc
+JCS	Communications Systems
+JCTCF	Jewett-Cameron Trading Company
+JDSU	Jds Uniphase Corp
+JFBI	Jefferson Bancshares
+JJSF	J & J Snack Foods
+JKHY	Jack Henry & Associates
+JMBA	Jamba Inc
+JOBS	51Job Inc
+JOEZ	Joe's Jeans Inc
+JOSB	Jos. A. Bank Clothiers
+JOUT	Johnson Outdoors Inc
+JRCC	James River Coal Company
+JRJC	China Finance Online Co. Limited
+JSM	SLM Corp
+JST	Jinpan International Limited
+JVA	Coffee Holding Co.
+KALU	Kaiser Aluminum Corp
+KBALB	Kimball International
+KCAP	Kohlberg Capital Corp
+KCLI	Kansas City Life Insurance Company
+KELYA	Kelly Services
+KELYB	Kelly Services
+KEQU	Kewaunee Scientific Corp
+KERX	Keryx Biopharmaceuticals
+KEYW	The Keyw Holding Corp
+KFFB	Kentucky First Federal Bancorp
+KFRC	Kforce Inc
+KGJI	Kingold Jewelry Inc
+KINS	Kingstone Companies Inc
+KLAC	Kla-Tencor Corp
+KLIC	Kulicke and Soffa Industries
+KNDI	Kandi Technolgies
+KONE	Kingtone Wirelessinfo Solution
+KONG	Kongzhong Corp
+KOOL	Thermogenesis
+KOPN	Kopin Corp
+KOSS	Koss Corp
+KRNY	Kearny Financial
+KTCC	Key Tronic Corp
+KTEC	Key Technology
+KTOS	Kratos Defense & Security Solutions
+KUTV	Ku6 Media Co.
+KVHI	Kvh Industries
+LABC	Louisiana Bancorp
+LABL	Multi-Color Corp
+LACO	Lakes Entertainment
+LAKE	Lakeland Industries
+LAMR	Lamar Advertising Company
+LANC	Lancaster Colony Corp
+LARK	Landmark Bancorp Inc
+LAWS	Lawson Products
+LAYN	Layne Christensen Company
+LBAI	Lakeland Bancorp
+LBIX	Leading Brands Inc
+LBTYA	Liberty Global
+LBTYB	Liberty Global
+LBTYK	Liberty Global
+LCAV	Lca-Vision Inc
+LCNB	Lcnb Corp
+LCUT	Lifetime Brands
+LEAP	Leap Wireless International
+LECO	Lincoln Electric Holdings
+LEDS	Semileds Corp
+LFUS	Littelfuse
+LGCY	Legacy Reserves LP
+LGND	Ligand Pharmaceuticals Inc
+LHCG	LHC Group
+LIME	Lime Energy Co.
+LINC	Lincoln Educational Services Corp
+LINE	Linn Energy Llc
+LINTA	Liberty Media Corp
+LINTB	Liberty Media Corp
+LION	Fidelity Southern Corp
+LIOX	Lionbridge Technologies
+LIVE	Livedeal Inc
+LIWA	Lihua International
+LKFN	Lakeland Financial Corp
+LKQ	LKQ Corp
+LLEX	Lilis Energy Inc.
+LLNW	Limelight Networks
+LLTC	Linear Technology Corp
+LMAT	Lemaitre Vascular
+LMIA	LMI Aerospace
+LMNR	Limoneira Co
+LMNX	Luminex Cor
+LNBB	LNB Bancorp
+LNCE	Snyder'S-Lance Inc
+LNDC	Landec Corp
+LOAN	Manhattan Bridge Capital Inc
+LOCM	Local Corp
+LOGI	Logitech International S.A.
+LOGM	Logmein Inc
+LOJN	Lojack Corp
+LONG	Elong Inc
+LOOK	Looksmart Ltd
+LOPE	Grand Canyon Education
+LORL	Loral Space and Communications
+LPHI	Life Partners Holdings Inc
+LPLA	Lpl Investment Holdings Inc
+LPNT	Lifepoint Hospitals
+LPSB	Laporte Bancorp
+LPSN	Liveperson Inc
+LPTH	Lightpath Technologies
+LPTN	Lpath Inc
+LQDT	Liquidity Services
+LRAD	Lrad Corp
+LRCX	Lam Research Corp
+LSBI	Lsb Financial
+LSBK	Lake Shore Bancorp
+LSCC	Lattice Semiconductor Corp
+LSI	Lsi Logic Corp
+LSTR	Landstar System
+LTRE	Learning Tree International
+LTRX	Lantronix Inc
+LTXC	Ltx-Credence Corp
+LULU	Lululemon Athletica Inc
+LUNA	Luna Innovations Inc
+LWAY	Lifeway Foods
+LXRX	Lexicon Pharmaceuticals
+LYTS	Lsi Industries Inc
+MAG	Magnetek Inc
+MAGS	Magal Security Systems Ltd
+MANH	Manhattan Associates
+MANT	Mantech International Corp
+MAR	Marriot International
+MARK	Remark Media Inc
+MARPS	Marine Petroleum Trust
+MASC	Material Sciences Corp
+MASI	Masimo Corp
+MAT	Mattel Inc
+MATR	Mattersight Corp
+MATW	Matthews International Corp
+MAYS	J. W. Mays
+MBFI	MB Financial Inc
+MBIS	Mediabistro Inc
+MBLX	Metabolix
+MBRG	Middleburg Financial Corp
+MBTF	M B T Financial Corp
+MBVT	Merchants Bancshares
+MBWM	Mercantile Bank Corp
+MCBC	Macatawa Bank Corp
+MCGC	MCG Capital Corp
+MCHP	Microchip Technology Inc
+MCHX	Marchex Inc
+MCOX	Mecox Lane Limited
+MCRI	Monarch Casino & Resort
+MCRL	Micrel Inc
+MCRS	Micros Systems
+MDAS	Medassets Inc
+MDCA	M.D.C. Partners Inc
+MDCI	Medical Action Industries Inc
+MDCO	The Medicines Company
+MDLZ	Mondelez International Inc. Cl A
+MDRX	Allscripts Healthcare Solutions
+MDSO	Medidata Solutions
+MDVN	Medivation Inc
+MEAS	Measurement Specialties
+MEIP	Mei Pharma Inc
+MELA	Mela Sciences Inc
+MELI	Mercadolibre Inc
+MENT	Mentor Graphics Corp
+MEOH	Methanex Corp
+MERC	Mercer International Inc
+MERU	Meru Networks
+METR	Metro Bancorp Inc
+MFI	Microfinancial Inc
+MFLX	Multi-Fineline Electronix
+MFNC	Mackinac Financial Corp
+MFRI	MFRI Inc
+MFSF	Mutualfirst Financial Inc
+MGAM	Multimedia Games
+MGCD	Mgc Diagnostics Corp
+MGEE	Mge Energy Inc
+MGI	Moneygram International
+MGIC	Magic Software Enterprises Ltd
+MGLN	Magellan Health Services
+MGPI	Mgp Ingredients
+MGRC	Mcgrath Rentcorp
+MGYR	Magyar Bancorp
+MHGC	Morgans Hotel Group Co.
+MHLD	Maiden Hldgs Ltd
+MIDD	The Middleby Corp
+MIND	Mitcham Industries
+MINI	Mobile Mini
+MITK	Mitek Systems Inc
+MITL	Mitel Networks Corp
+MKSI	Mks Instruments
+MKTX	Marketaxess Holdings
+MLAB	Mesa Laboratories
+MLHR	Herman Miller
+MLNK	Moduslink Global Solutions Inc
+MLNX	Mellanox Technologies
+MLVF	Malvern Federal Bancorp
+MMLP	Martin Midstream Partners L.P.
+MMSI	Merit Medical Systems
+MMYT	Makemytrip Limited
+MNDL	Mandalay Media Inc
+MNDO	Mind C.T.I. Ltd
+MNGA	Magnegas Corp
+MNKD	Mannkind Corp
+MNOV	Medicinova
+MNRK	Monarch Financial Holdings
+MNRO	Monro Muffler Brake
+MNST	Monster Beverage Corp
+MNTA	Momenta Pharmaceuticals
+MNTG	Mtr Gaming Group
+MNTX	Manitex International
+MOBI	Sky-Mobi Limited
+MOCO	Mocon Inc
+MOFG	Midwestone Financial Group
+MORN	Morningstar Inc
+MOSY	Mosys Inc
+MOVE	Move Inc
+MPAA	Motorcar Parts of America
+MPB	Mid Penn Bancorp
+MPEL	Melco Crown Entertainment Limited
+MPET	Magellan Petroleum Corp
+MPWR	Monolithic Power Systems
+MRCY	Mercury Computer Systems
+MRGE	Merge Healthcare Incorporated.
+MRLN	Marlin Business Services
+MRTN	Marten Transport
+MRVL	Marvell Technology Group
+MSBF	MSB Financial
+MSCC	Microsemi Corp
+MSEX	Middlesex Water Company
+MSFG	Mainsource Financial Group
+MSFT	Microsoft Corp
+MSG	Madison Square Garden
+MSLI	Merus Labs International Inc. Co
+MSON	Misonix Inc
+MSTR	Microstrategy Inc
+MTEX	Mannatech Inc
+MTSC	MTS Systems Corp
+MTSL	Mer Telemanagement Solutions Ltd
+MTSN	Mattson Technology
+MU	Micron Technology
+MVIS	Microvision
+MWIV	Mwi Veterinary Supply
+MXIM	Maxim Integrated Products
+MXWL	Maxwell Technologies
+MYGN	Myriad Genetics
+MYL	Mylan Inc
+MYRG	Myr Group
+NAII	Natural Alternatives International
+NANO	Nanometrics Inc
+NASB	Nasb Financial Inc
+NATH	Nathan's Famous
+NATI	National Instruments Corp
+NATL	National Interstate Corp
+NATR	Nature's Sunshine Products
+NAUH	National American University Holdings
+NAVG	The Navigators Group
+NBBC	Newbridge Bancorp
+NBIX	Neurocrine Biosciences
+NBN	Northeast Bancorp
+NBS	Neostem
+NBTB	NBT Bancorp Inc
+NBTF	NB&T Financial Group Inc
+NCBC	New Century Bancorp Inc. [Nc]
+NCIT	NCI Inc
+NCMI	National Cinemedia
+NCTY	The9 Limited
+NDAQ	The Nasdaq Omx Group
+NDSN	Nordson Corp
+NECB	Northeast Community Bancorp
+NEO	Neogenomics Inc
+NEOG	Neogen Corp
+NEON	Neonode Inc
+NEPT	Neptune Technologies & Bioresources Inc
+NETE	Net Element Inc
+NEWL	Newlead Holdings Ltd
+NEWP	Newport Corp
+NEWS	Newstar Financial
+NEWT	Newtek Business Services Inc
+NFBK	Northfield Bancorp
+NFEC	NF Energy Saving Corp
+NFLX	Netflix Inc
+NGPC	Ngp Capital Resources Company
+NHTB	New Hampshire Thrift Bancshares
+NICE	Nice-Systems Limited
+NICK	Nicholas Financial
+NIHD	NII Holdings
+NILE	Blue Nile Inc
+NINE	Ninetowns Internet Technology Group
+NKSH	National Bankshares
+NKTR	Nektar Therapeutics
+NLST	Netlist Inc
+NMRX	Numerex Corp
+NNBR	NN Inc
+NOVB	North Valley Bancorp
+NPBC	National Penn Bancshares
+NPSP	NPS Pharmaceuticals
+NRCIB	National Research Corp
+NRIM	Northrim Bancorp Inc
+NSEC	National Security Group
+NSIT	Insight Enterprises
+NSPH	Nanosphere Inc
+NSSC	Napco Security Technologies
+NSYS	Nortech Systems Inc
+NTAP	Netapp Inc
+NTCT	Netscout Systems
+NTES	Netease Inc
+NTIC	Northern Technologies International Corp
+NTLS	Ntelos Holdings
+NTRI	Nutrisystem Inc
+NTRS	Northern Trust Corp
+NTWK	Netsol Technologies Inc
+NUAN	Nuance Communications
+NUCL	S&P Global Nuclear Energy Index Ishares
+NURO	Neurometrix Inc
+NUTR	Nutraceutical International Corp
+NUVA	Nuvasive Inc
+NVAX	Novavax Inc
+NVDA	Nvidia Corp
+NVEC	Nve Corp
+NVGN	Novogen Ltd
+NVMI	Nova Measuring Instruments Ltd
+NVSL	Naugatuck Valley Financial Corp
+NVTL	Novatel Wireless
+NWBI	Northwest Bancshares
+NWFL	Norwood Financial
+NWLI	National Western Life Insurance
+NWPX	Northwest Pipe Company
+NXPI	Nxp Semiconductors N.V.
+NXST	Nexstar Broadcasting Group
+NXTM	Nxstage Medical
+NYMT	New York Mortgage Trust
+NYMX	Nymox Pharmaceutical Corp
+NYNY	Empire Resorts
+OABC	Omniamerican Bancorp
+OBAF	Oba Financial Services
+OBAS	Optibase Ltd
+OBCI	Ocean Bio-Chem
+OCC	Optical Cable Corp
+OCFC	Oceanfirst Financial
+OCLR	Oclaro Inc
+OCLS	Oculus Innovative Sciences
+ODFL	Old Dominion Freight Line
+OFED	Oconee Federal Financial
+OFIX	Orthofix International N.V.
+OFLX	Omega Flex
+OGXI	Oncogenex Pharmaceuticals Inc
+OIIM	O2Micro International Limited
+OINK	Tianli Agritech
+OKSB	Southwest Bancorp
+OLBK	Old Line Bancshares
+OLED	Universal Display Corp
+OMAB	Grupo Aeroportuario Del Centro
+OMCL	Omnicell Inc
+OMER	Omeros Corp
+OMEX	Odyssey Marine Exploration
+ONB	Old National Bancorp Capital
+ONCY	Oncolytics Biotech
+ONEQ	Nasdaq Composite Tracking Fidelity
+ONFC	Oneida Financial
+ONNN	On Semiconductor Corp
+ONTY	Oncothyreon Inc
+ONVI	Onvia Inc
+OPEN	Opentable
+OPHC	Optimumbank Holdings
+OPLK	Oplink Communications
+OPOF	Old Point Financial Corp
+OPTT	Ocean Power Technologies
+OPXA	Opexa Therapeutics
+ORBC	Orbcomm Inc
+ORBK	Orbotech Ltd
+ORBT	Orbit International Corp
+OREX	Orexigen Therapeutics
+ORIT	Oritani Financial
+ORLY	O'Reilly Automotive
+ORMP	Oramed Pharmaceuticl
+ORRF	Orrstown Financial Services Inc
+OSHC	Ocean Shore Holding Co.
+OSIR	Osiris Therapeutics
+OSIS	Osi Systems
+OSM	SLM Corp
+OSN	Ossen Innovation Co.
+OSTK	Overstock.Com
+OSUR	Orasure Technologies
+OTEL	Otelco Inc. Class A
+OTEX	Open Text Corp
+OTIV	On Track Innovations Ltd
+OTTR	Otter Tail Corp
+OUTR	Outerwall Inc
+OVBC	Ohio Valley Banc
+OVLY	Oak Valley Bancorp [Ca]
+OVRL	Overland Storage
+OVTI	Omnivision Technologies
+OXBT	Oxygen Biotherapeutics
+OXGN	Oxigene Inc
+OXLC	Oxford Lane Capital
+OZRK	Bank of The Ozarks
+PAAS	Pan American Silver
+PACB	Pacific Biosciences of California
+PACR	Pacer International
+PACT	Pactera Technology International Ltd. Ads Wi
+PACW	Pacwest Bancorp
+PAGG	Global Agriculture Powershares
+PAMT	Parametric Sound
+PATH	Nupathe Inc
+PATK	Patrick Industries
+PATR	Patriot Transportation Holding
+PAYX	Paychex Inc
+PBCP	Polonia Bancorp [Pa]
+PBCT	People's United Financial
+PBHC	Pathfinder Bancorp
+PBIB	Porter Bancorp
+PBIP	Prudential Bancorp of Pennsylvania
+PCAR	Paccar Inc
+PCBK	Pacific Continental Corporation [Ore]
+PCCC	PC Connection
+PCH	Potlatch Corp
+PCLN	Priceline.Com Inc
+PCMI	PCM Inc
+PCO	Pendrell Corp
+PCTI	Pc-Tel Inc
+PCYG	Park City Group
+PCYO	Pure Cycle Corp
+PDCE	Pdc Energy Inc
+PDCO	Patterson Companies Inc
+PDEX	Pro-Dex Inc
+PDFS	Pdf Solutions Inc
+PDII	Pdi Inc
+PDLI	Pdl Biopharma
+PEBK	Peoples Bancorp of North Carolina
+PEBO	Peoples Bancorp Inc
+PEGA	Pegasystems Inc
+PEIX	Pacific Ethanol
+PENN	Penn National Gaming
+PENX	Penford Corp
+PEOP	Peoples Federal Bancshares
+PERF	Perfumania Holdings Inc
+PERI	Perion Network Ltd
+PERY	Perry Ellis International Inc
+PESI	Perma-Fix Environmental Services
+PETM	Petsmart Inc
+PETS	Petmed Express
+PFBI	Premier Financial Bancorp
+PFBX	Peoples Financial Corp
+PFIN	P & F Industries
+PFSW	Pfsweb Inc
+PGC	Peapack-Gladstone Financial Corp
+PGNX	Progenics Pharmaceuticals Inc
+PGTI	Pgt Industries
+PHII	PHI Inc
+PHIIK	PHI Inc
+PHMD	Photomedex
+PICO	Pico Holdings Inc
+PKBK	Parke Bancorp
+PKOH	Park-Ohio Holdings
+PKT	Procera Networks
+PLAB	Photronics
+PLBC	Plumas Bancorp
+PLCC	Paulson Capital
+PLCE	The Children's Place Retail Stores
+PLCM	Polycom Inc
+PLKI	Popeyes Louisiana Kitchen Inc.
+PLNR	Planar Systems
+PLPC	Preformed Line Products Company
+PLPM	Planet Payment
+PLTM	ISE Global Platinum Index First Trust
+PLUG	Plug Power Inc
+PLUS	Eplus Inc
+PLXS	Plexus Corp
+PLXT	Plx Technology
+PMBC	Pacific Mercantile Bancorp
+PMCS	Pmc - Sierra
+PMD	Psychemedics Corp
+PMFG	PMFG Inc
+PMNA	Mena Frontier Countries Powershares
+PNBK	Patriot National Bancorp Inc
+PNFP	Pinnacle Financial Partners
+PNNT	Pennantpark Investment Corp
+PNQI	Nasdaq Internet Powershares
+PNRA	Panera Bread Company
+PNRG	Primeenergy Corp
+PNTR	Pointer Telocation Ltd
+PODD	Insulet Corp
+POOL	Pool Corp
+POPE	Pope Resources
+POWI	Power Integrations
+POWL	Powell Industries
+POZN	Pozen Inc
+PPBI	Pacific Premier Bancorp Inc
+PPC	Pilgrim's Pride Corp
+PPHM	Peregrine Pharmaceuticals Inc
+PRAA	Portfolio Recovery Associates
+PRAN	Prana Biotechnology Ltd
+PRCP	Perceptron Inc
+PRFT	Perficient Inc
+PRFZ	FTSE Rafi US 1500 Small-Mid Powershares
+PRGN	Paragon Shipping Inc
+PRGS	Progress Software Corp
+PRGX	Prgx Global
+PRIM	Primoris Services Corp
+PRKR	Parkervision
+PRLS	Peerless Systems Corp
+PRMW	Primo Water Corp
+PRPH	Prophase Labs
+PRSC	The Providence Service Corp
+PRTS	U.S. Auto Parts Network
+PRXI	Premier Exhibitions
+PRXL	Parexel International Corp
+PSAU	Global Gold & Prec Metals Powershares
+PSBH	Psb Holdings
+PSCC	S&P Smallcap Cnsmr Staples Powershares
+PSCD	S&P Smallcap Cnsmr Discret Powershares
+PSCE	S&P Smallcap Energy Powershares
+PSCF	S&P Smallcap Financials Powershares
+PSCH	S&P Smallcap Health Care Powershares
+PSCI	S&P Smallcap Industrials Powershares
+PSCM	S&P Smallcap Materials Powershares
+PSCT	S&P Smallcap Info Tech Powershares
+PSCU	S&P Smallcap Utilities Powershares
+PSDV	Psivida Corp
+PSEC	Prospect Capital Corp
+PSEM	Pericom Semiconductor Corp
+PSMT	Pricesmart Inc
+PSTB	Park Sterling Bank
+PSTI	Pluristem Therapeutics
+PSTR	Postrock Energy Corp
+PSUN	Pacific Sunwear of California
+PTC	Ptc Inc.
+PTEK	Pokertek Inc
+PTEN	Patterson-Uti Energy
+PTIE	Pain Therapeutics
+PTIX	Performance Technologies Inc
+PTNR	Partner Communications Company Ltd
+PTNT	Internet Patents Corp
+PTRY	The Pantry Inc
+PTSI	P.A.M. Transportation Services
+PTSX	Point.360
+PTX	Golf Trust of America
+PULB	Pulaski Financial
+PVTB	Privatebancorp
+PVTBP	Privatebancorp
+PWOD	Penns Woods Bancorp
+PWRD	Perfect World Co.
+PWX	Providence and Worcester Railroad
+PXLW	Pixelworks
+PZZA	Papa John's International
+PZZI	Pizza Inn
+QABA	Nasdaq Aba Community Bank First Trust
+QADA	Qad Inc
+QADB	Qad Inc
+QBAK	Qualstar Corp
+QCCO	QC Holdings
+QCLN	Nasdaq Clean Edge Green First Trust
+QCOM	Qualcomm Inc
+QCRH	Qcr Holdings
+QDEL	Quidel Corp
+QGEN	Qiagen N.V.
+QLGC	Qlogic Corp
+QLIK	Qlik Technologies Inc
+QLTI	Qlt Inc
+QLTY	Quality Distribution
+QNST	Quinstreet Inc
+QQEW	Nasdaq-100 Equal Weight First Trust
+QQQ	Powershares QQQ
+QQQC	G-X Nasdaq China Technology ETF
+QQQX	Nasdaq Premium Income and Growth
+QQXT	Nasdaq-100 Ex-Tech Sec First Trust
+QSII	Quality Systems
+QTEC	Nasdaq-100 Tech Index First Trust
+QTWW	Quantum Fuel Systems Technologies
+QUIK	Quicklogic Corp
+QUMU	Qumu Corp
+RADA	Rada Electronics Industries Limited
+RAIL	Freightcar America
+RAND	Rand Capital Corp
+RAVN	Raven Industries
+RBCAA	Republic Bancorp
+RBCN	Rubicon Technology
+RBPAA	Royal Bancshares of Pennsylvania
+RCII	Rent-A-Center Inc
+RCKB	Rockville Financial
+RCKY	Rocky Brands
+RCMT	Rcm Technologies
+RCON	Recon Technology
+RDA	Rda Microelectronics
+RDCM	Radcom Ltd
+RDEN	Elizabeth Arden
+RDI	Reading International Inc
+RDNT	Radnet Inc
+RDWR	Radware Ltd
+RECN	Resources Connection
+REDF	Rediff.Com India Limited
+REFR	Research Frontiers Inc
+REIS	Reis Inc
+RELL	Richardson Electronics
+RELV	Reliv International Inc
+REMY	Remy Intl Inc
+RENT	Rentrak Corp
+REXI	Resource America
+REXX	Rex Energy Corp
+RFIL	RF Industries
+RFMD	RF Micro Devices
+RGCO	Rgc Resources Inc
+RGDX	Response Genetics
+RGEN	Repligen Corp
+RGLD	Royal Gold
+RIBT	Ricebran Technologies
+RIBTW	Ricebran Technologies
+RICK	Rick's Cabaret International
+RIGL	Rigel Pharmaceuticals
+RITT	Rit Technologies Ltd
+RITTW	Rit Technologies Ltd.
+RIVR	River Valley Bancorp
+RJET	Republic Airways Holdings
+RMBS	Rambus Inc
+RMCF	Rocky Mountain Chocolate Factory
+RMTI	Rockwell Medical Technologies
+RNET	Rignet Inc
+RNST	Renasant Corp
+RNWK	Realnetworks
+ROCK	Gibraltar Industries
+ROIA	Radio One Inc
+ROIAK	Radio One Inc
+ROIC	Retail Opportunity Investments
+ROLL	RBC Bearings Inc
+ROSE	Rosetta Resources Inc
+ROSG	Rosetta Genomics Ltd
+ROST	Ross Stores
+ROVI	Rovi Corp
+ROYL	Royale Energy
+RP	Realpage Inc
+RPRX	Repros Therapeutics Inc
+RPTP	Raptor Pharmaceutical
+RRD	R.R. Donnelley & Sons Company
+RRGB	Red Robin Gourmet Burgers
+RRST	Rrsat Global Communications Network Ltd
+RSOL	Real Goods Solar
+RSTI	Rofin-Sinar Technologies
+RSYS	Radisys Corp
+RTIX	Rti Biologics
+RTK	Rentech Inc
+RUSHA	Rush Enterprises
+RUSHB	Rush Enterprises
+RUTH	Ruth's Hospitality Group
+RVBD	Riverbed Technology
+RVLT	Nexxus Lighting
+RVSB	Riverview Bancorp Inc
+RYAAY	Ryanair Holdings Plc
+SAAS	Incontact
+SAFM	Sanderson Farms
+SAFT	Safety Insurance Group
+SAIA	Saia Inc
+SAL	Salisbury Bancorp
+SALM	Salem Communications Corp
+SANM	Sanmina-Sci Corp
+SANW	S&W Seed Company
+SAPE	Sapient Corp
+SASR	Sandy Spring Bancorp
+SATS	Echostar Corp
+SBAC	SBA Communications Corp
+SBBX	Sussex Bancorp
+SBCF	Seacoast Banking Corporation of Florida
+SBFG	Sb Financial Group Inc
+SBGI	Sinclair Broadcast Group
+SBLK	Star Bulk Carriers
+SBNY	Signature Bank
+SBRA	Sabra Healthcare REIT Inc
+SBSA	Spanish Broadcasting System
+SBSI	Southside Bancshares
+SBUX	Starbucks Corp
+SCBT	Scbt Financial Corp
+SCHL	Scholastic Corp
+SCHN	Schnitzer Steel Industries
+SCLN	Sciclone Pharmaceuticals
+SCMP	Sucampo Pharmaceuticals
+SCOK	Sinocoking Coal and Coke Chemical Industries In
+SCON	Superconductor Technologies Inc
+SCOR	Comscore Inc
+SCSC	Scansource Inc
+SCSS	Select Comfort Corp
+SCVL	Shoe Carnival
+SEAC	Seachange International
+SEED	Origin Agritech Limited
+SEIC	Sei Investments Company
+SENEA	Seneca Foods
+SENEB	Seneca Foods
+SEV	Sevcon Inc
+SFBC	Sound Financial Inc
+SFLY	Shutterfly
+SFNC	Simmons First National Corp
+SFST	Southern First Bancshares
+SGC	Superior Uniform Group
+SGEN	Seattle Genetics
+SGI	Silicon Graphics International Corp
+SGMA	Sigmatron International
+SGMO	Sangamo Biosciences
+SGMS	Scientific Games Corp
+SGOC	Sgoco Group Ltd
+SGRP	Spar Group
+SGYP	Synergy Pharmaceuticals Inc
+SHBI	Shore Bancshares Inc
+SHEN	Shenandoah Telecommunications Co
+SHIP	Seanergy Maritime Holdings Corp
+SHLD	Sears Holdings Corp
+SHLM	A. Schulman
+SHLO	Shiloh Industries
+SHOO	Steven Madden
+SHOR	Shoretel Inc
+SHPG	Shire Plc American Depositary Shares
+SIAL	Sigma-Aldrich Corp
+SIEB	Siebert Financial
+SIFI	Si Financial Group
+SIFY	Sify Technologies Limited
+SIGA	Siga Technologies Inc
+SIGI	Selective Insurance Group
+SIGM	Sigma Designs
+SILC	Silicom Ltd
+SIMG	Silicon Image
+SIMO	Silicon Motion Technology Corp
+SINA	Sina Corp
+SINO	Sino-Global Shipping America
+SIRI	Sirius XM Radio Inc
+SIRO	Sirona Dental Systems
+SIVB	Svb Financial Group
+SIVBO	Svb Financial Group
+SKBI	Skystar Bio-Pharmaceutical Company
+SKYW	Skywest Inc
+SLAB	Silicon Laboratories
+SLGN	Silgan Holdings
+SLM	SLM Corp
+SLMAP	SLM 6.97 Cum Pfd A
+SLMBP	SLM Corp Pfd B
+SLP	Simulations Plus
+SLRC	Solar Capital Ltd
+SLTC	Selectica Inc
+SMBC	Southern Missouri Bancorp
+SMCI	Super Micro Computer
+SMED	Sharps Compliance Corp
+SMIT	Schmitt Industries
+SMMF	Summit Financial Group
+SMPL	Kaiser Federal Financial Group
+SMRT	Stein Mart Inc
+SMSI	Smith Micro Software
+SMT	Smart Technologies Inc
+SMTC	Semtech Corp
+SMTX	Smtc Corp
+SNAK	Inventure Foods
+SNBC	Sun Bancorp
+SNCR	Synchronoss Technologies
+SNDK	Sandisk Corp
+SNFCA	Security National Financial Corp
+SNHY	Sun Hydraulics Corp
+SNMX	Senomyx Inc
+SNPS	Synopsys Inc
+SNSS	Sunesis Pharmaceuticals
+SNTA	Synta Pharmaceuticals
+SOCB	Southcoast Financial Corp
+SODA	Sodastream International Ltd
+SOFO	Sonic Foundry
+SOHO	Sotherly Hotels Inc
+SOHU	Sohu.Com Inc
+SONA	Southern National Bancorp of Virginia
+SONC	Sonic Corp
+SONS	Sonus Networks
+SORL	Sorl Auto Parts
+SOXX	PHLX Sox Semiconductor Sector Ishares
+SP	Sp Plus Corporation
+SPAN	Span-America Medical Systems
+SPAR	Spartan Motors
+SPBC	Sp Bancorp
+SPCB	Supercom Ltd
+SPCHA	Sport Chalet
+SPCHB	Sport Chalet
+SPDC	Speed Commerce Inc
+SPEX	Spherix Inc
+SPHS	Sophiris Bio Inc
+SPIL	Siliconware Precision Industries Company Ltd
+SPLS	Staples Inc
+SPNC	The Spectranetics Corp
+SPNS	Sapiens International Corporation N.V.
+SPPI	Spectrum Pharmaceuticals
+SPPR	Supertel Hospitality
+SPPRO	Supertel Hospitality
+SPPRP	Supertel Hospitality
+SPRO	Smartpros Ltd
+SPRT	Support.Com Inc
+SPSC	Sps Commerce
+SPTN	Spartan Stores
+SPU	Skypeople Fruit Juice
+SPWR	Sunpower Corp
+SQBG	People's Liberation
+SQI	Sciquest Inc
+SQNM	Sequenom Inc
+SQQQ	Ultrapro Short QQQ Proshares
+SRCE	1St Source Corp
+SRCL	Stericycle Inc
+SRDX	Surmodics Inc
+SRNE	Sorrento Therapeutics
+SRPT	Sarepta Therapeutics Inc
+SSBI	Summit State Bank
+SSFN	Stewardship Financial Corp
+SSNC	SS&C Technologies Holdings
+SSRI	Silver Standard Resources Inc
+SSYS	Stratasys Ltd
+STAA	Staar Surgical Company
+STB	Student Transn Inc
+STBA	S&T Bancorp
+STBZ	State Bank Finl Corp
+STEM	Stemcells Inc
+STFC	State Auto Financial Corp
+STKL	Sunopta Inc
+STLD	Steel Dynamics
+STLY	Stanley Furniture Company
+STMP	Stamps.Com Inc
+STNR	Steiner Leisure Limited
+STRA	Strayer Education
+STRL	Sterling Construction Company Inc
+STRM	Streamline Health Solutions
+STRN	Sutron Corp
+STRS	Stratus Properties
+STRT	Strattec Security Corp
+STRZA	Starz Series A Liberty Capital
+STSA	Sterling Financial Corp
+STSI	Star Scientific
+STX	Seagate Technology.
+STXS	Stereotaxis
+SUBK	Suffolk Bancorp
+SUMR	Summer Infant
+SUPX	Supertex Inc
+SURG	Synergetics USA
+SUSQ	Susquehanna Bancshares
+SUTR	Sutor Technology Group Limited
+SVA	Sinovac Biotech
+SVBI	Severn Bancorp Inc
+SWHC	Smith & Wesson Holding Corp
+SWIR	Sierra Wireless
+SWKS	Skyworks Solutions
+SWSH	Swisher Hygiene
+SYBT	S.Y. Bancorp
+SYKE	Sykes Enterprises Inc
+SYMC	Symantec Corp
+SYMX	Synthesis Energy Systems
+SYNA	Synaptics Inc
+SYNL	Synalloy Corp
+SYNM	Syntroleum Corp
+SYNT	Syntel Inc
+SYPR	Sypris Solutions
+SYUT	Synutra International
+TACT	Transact Technologies Inc
+TAIT	Taitron Components Inc
+TASR	Taser International
+TAST	Carrols Restaurant Group
+TATT	Tat Technologies Ltd
+TAXI	Medallion Financial
+TAYC	Taylor Capital Group
+TAYCP	Taylor Capital Group
+TAYD	Taylor Devices
+TBAC	Tandy Brands Accessories
+TBBK	The Bancorp
+TBNK	Territorial Bancorp Inc
+TBOW	Trunkbow International Holdings Ltd
+TCBI	Texas Capital Bancshares
+TCBK	Trico Bancshares
+TCCO	Technical Communications Corp
+TCFC	Tri-County Financial Corp
+TCRD	THL Credit
+TCX	Tucows Inc
+TEAR	Tearlab Corp
+TECD	Tech Data Corp
+TECH	Techne Corp
+TECUA	Tecumseh Products Company
+TECUB	Tecumseh Products Company
+TELK	Telik Inc
+TESO	Tesco Corp
+TESS	Tessco Technologies Inc
+TFCO	Tufco Technologies
+TFM	The Fresh Market
+TFSL	Tfs Financial Corp
+TGA	Transglobe Energy Corp
+TGE	Tgc Industries
+TGTX	Tg Therapeutics
+THFF	First Financial Corporation Indiana
+THLD	Threshold Pharmaceuticals
+THOR	Thoratec Corp
+THRD	TF Financial Corp
+THRM	Gentherm Inc
+THRX	Theravance
+THTI	Tht Heat Transfer Technology
+TIBX	Tibco Software
+TICC	Ticc Capital
+TIGR	Tigerlogic Corp
+TILE	Interface
+TINY	Harris & Harris Group
+TIPT	Tiptree Financial Inc
+TISA	Top Image Systems
+TITN	Titan Machinery Inc
+TIVO	Tivo Inc
+TKMR	Tekmira Pharmaceuticals Corp
+TLF	Tandy Leather Factory
+TMNG	The Management Network Group
+TNAV	Telenav Inc
+TOFC	Tower Financial Corp
+TOPS	Top Ships Inc
+TORM	Tor Minerals International Inc
+TOWN	Towne Bank
+TQNT	Triquint Semiconductor
+TQQQ	Ultrapro QQQ Proshares
+TRAK	Dealertrack Holdings
+TRCB	Two River Bancorp
+TRCH	Torchlight Energy Resources Inc
+TRGT	Targacept
+TRMB	Trimble Navigation Limited
+TRMK	Trustmark Corp
+TRNS	Transcat Inc
+TRNX	Tornier N.V.
+TROV	Trovagene Inc
+TROW	T. Rowe Price Group
+TRS	Trimas Corp
+TRST	Trustco Bank Corp NY
+TSBK	Timberland Bancorp
+TSCO	Tractor Supply Company
+TSEM	Tower Semiconductor Ltd
+TSLA	Tesla Motors
+TSPT	Transcept Pharmaceuticals
+TSRA	Tessera Technologies
+TSRE	Trade Street Residential Inc
+TSRER	Trade Street Residential Inc.
+TSRI	TSR Inc
+TST	Thestreet.Com
+TSYS	Telecommunication Systems
+TTEC	Teletech Holdings
+TTEK	Tetra Tech
+TTGT	Techtarget
+TTHI	Transition Therapeutics
+TTMI	TTM Technologies
+TTWO	Take-Two Interactive Software
+TUES	Tuesday Morning
+TVIX	Daily 2X VIX ST ETN Velocityshares
+TVIZ	Daily 2X VIX Med-Term ETN Velocityshares
+TWER	Towerstream Corp
+TWGP	Tower Group
+TWIN	Twin Disc Inc
+TWMC	Trans World Entertainment
+TWTC	TW Telecom Inc
+TXN	Texas Instruments Inc
+TXRH	Texas Roadhouse
+TYPE	Monotype Imaging Holdings Inc
+TZOO	Travelzoo Inc
+UACL	Universal Truckload Services
+UBCP	United Bancorp
+UBFO	United Security Bancshares
+UBNK	United Financial Bancorp
+UBOH	United Bancshares
+UBSH	Union First Market Bankshares Corp
+UBSI	United Bankshares
+UCBA	United Community Bancorp
+UCBI	United Community Banks
+UCFC	United Community Financial
+UCTT	Ultra Clean Holdings
+UEIC	Universal Electronics Inc
+UEPS	Net 1 Ueps Technologies
+UFCS	United Fire Group Inc
+UFPI	Universal Forest Products
+UFPT	Ufp Technologies
+UG	United-Guardian
+UHAL	Amerco
+UIHC	United Insurance Hld
+ULBI	Ultralife Corp
+ULTA	Ulta Salon Cosmetics & Fragrance
+ULTI	The Ultimate Software Group
+ULTR	Ultrapetrol [Bahamas] Limited
+UMBF	UMB Financial Corp
+UMPQ	Umpqua Holdings Corp
+UNAM	Unico American Corp
+UNB	Union Bankshares
+UNFI	United Natural Foods
+UNIS	Unilife Corp
+UNTD	United Online
+UNTK	Unitek Global Services
+UNTY	Unity Bancorp
+UNXL	Uni-Pixel
+UPI	Uroplasty
+UPIP	Unwired Planet Inc
+URBN	Urban Outfitters
+URRE	Uranium Resources
+USAK	USA Truck
+USAP	Universal Stainless & Alloy Products
+USAT	USA Technologies
+USATP	USA Technologies
+USBI	United Security Bancshares
+USCR	US Concrete
+USEG	US Energy
+USLM	United States Lime & Minerals
+USMO	USA Mobility
+USTR	United Stationers Inc
+UTEK	Ultratech Inc
+UTHR	United Therapeutics Corp
+UTIW	Uti Worldwide Inc
+UTMD	Utah Medical Products
+UTSI	Ustarcom Holdings Corp
+UVSP	Univest Corporation of Pennsylvania
+VALU	Value Line
+VASC	Vascular Solutions
+VBFC	Village Bank and Trust Financial
+VCLT	Long-Term Corp Bond Idx ETF Vanguard
+VDSI	Vasco Data Security International
+VECO	Veeco Instruments Inc
+VGIT	Interm-Term Govt Bd Idx ETF Vanguard
+VGLT	Long-Term Govt Bond Idx ETF Vanguard
+VGSH	Short-Term Govt Bd Idx ETF Vanguard
+VIA	Viacom Inc Class A
+VIAB	Viacom Inc Cl B
+VIAS	Viasystems Group
+VICL	Vical Inc
+VICR	Vicor Corp
+VIDE	Video Display Corp
+VIEW	Viewtran Group Inc.
+VIFL	Food Technology Service
+VIIX	VIX Short-Term ETN Velocityshares
+VIIZ	VIX Med-Term ETN Velocityshares
+VIMC	Vimicro International Corp
+VIP	Open Joint Stock Company Vimpel-Communications
+VIRC	Virco Manufacturing Corp
+VISN	Visionchina Media
+VITC	Vitacost.Com Inc
+VIVO	Meridian Bioscience Inc
+VLCCF	Knightsbridge Tankers Limited
+VLGEA	Village Super Market
+VLTC	Voltari Corp
+VMBS	Mortgage Backed Securities ETF Vanguard
+VNDA	Vanda Pharmaceuticals Inc
+VNQI	Global Ex-US Real Estate ETF Vanguard
+VNR	Vanguard Natural Resources Llc
+VOCS	Vocus Inc
+VOD	Vodafone Group Plc
+VOLC	Volcano Corp
+VONE	Russell 1000 Index ETF Vanguard
+VONG	Russell 1000 Growth Index ETF Vanguard
+VONV	Russell 1000 Value Index ETF Vanguard
+VOXX	Audiovox Corp
+VPFG	Viewpoint Financial Group
+VPRT	Vistaprint N.V.
+VRA	Vera Bradley
+VRML	Vermillion Inc
+VRNG	Vringo Inc
+VRNGW	Vringo Inc. Warrants 5 Years
+VRNT	Verint Systems Inc
+VRSK	Verisk Analytics
+VRSN	Verisign Inc
+VRTA	Vestin Realty Mortgage I
+VRTB	Vestin Realty Mortgage II
+VRTS	Virtus Investment Partners
+VRTU	Virtusa Corp
+VRTX	Vertex Pharmaceuticals Inc
+VSAT	Viasat Inc
+VSCI	Vision-Sciences
+VSCP	Virtualscopics
+VSEC	VSE Corp
+VTHR	Russell 3000 Index ETF Vanguard
+VTNC	Vitran Corp
+VTNR	Vertex Energy Inc
+VTSS	Vitesse Semicond
+VTUS	Ventrus Biosciences
+VTWG	Russell 2000 Growth Index ETF Vanguard
+VTWO	Russell 2000 Index ETF Vanguard
+VTWV	Russell 2000 Value Index ETF Vanguard
+VVTV	Valuevision Media
+VVUS	Vivus Inc
+VXUS	Total Intl Stock Idx ETF Vanguard
+VYFC	Valley Financial Corp
+WABC	Westamerica Bancorporation
+WAFD	Washington Federal
+WASH	Washington Trust Bancorp
+WAVX	Wave Systems
+WAYN	Wayne Savings Bancshares Inc
+WBCO	Washington Banking Company
+WBKC	Wolverine Bancorp
+WBMD	Webmd Health Corp
+WDC	Western Digital Corp
+WDFC	Wd-40 Company
+WEN	The Wendy's Company
+WERN	Werner Enterprises
+WEYS	Weyco Group
+WFBI	Washingtonfirst Bk
+WFD	Westfield Financial
+WFM	Whole Foods Market
+WIBC	Wilshire Bancorp
+WILC	G. Willi-Food International Ltd
+WILN	Wi-Lan Inc
+WIN	Windstream Holdings Inc
+WINA	Winmark Corp
+WIRE	Encore Wire Corp
+WLB	Westmoreland Coal Company
+WLDN	Willdan Group
+WLFC	Willis Lease Finance Corp
+WMAR	West Marine
+WMGI	Wright Medical Group
+WOOD	S&P Global Timber & Forestry Idx Ishares
+WOOF	Vca Antech
+WPCS	Wpcs International Inc
+WPPGY	Wpp Plc
+WPRT	Westport Innovations Inc
+WRES	Warren Resources
+WRLD	World Acceptance Corp
+WSBC	Wesbanco Inc
+WSCI	Wsi Industries Inc
+WSFS	WSFS Financial Corp
+WSTG	Wayside Technology Group
+WSTL	Westell Technologies
+WTBA	West Bancorporation
+WTFC	Wintrust Financial Corp
+WTSL	Wet Seal Inc. Cl A
+WVFC	Wvs Financial
+WVVI	Willamette Valley Vineyards
+WWD	Woodward Inc
+WWWW	Web.Com Group Inc
+WYNN	Wynn Resorts Limited
+XBKS	Xenith Bankshares
+XIV	Daily Inverse VIX ST ETN Velocityshares
+XLNX	Xilinx Inc
+XNPT	Xenoport Inc
+XOMA	Xoma Ltd
+XRAY	Dentsply International Inc
+XRSC	Xrs Corp
+XRTX	Xyratex Ltd
+XTEX	Crosstex Energy L.P.
+XTLB	Xtl Biopharma Ads
+XTXI	Crosstex Energy
+XWES	World Energy Solutions Inc
+XXIA	IXIA
+YDKN	Yadkin Valley Financial Corp
+YHOO	Yahoo! Inc
+YOD	You On Demand Holdings Inc
+YONG	Yongye International Inc
+YORW	The York Water Company
+YRCW	YRC Worldwide
+ZAGG	Zagg Inc
+ZAZA	Zaza Energy Corp
+ZBRA	Zebra Technologies Corp
+ZEUS	Olympic Steel
+ZGNX	Zogenix Inc
+ZHNE	Zhone Technologies
+ZIGO	Zygo Corp
+ZINC	Horsehead Holding
+ZION	Zions Bancorporation
+ZIOP	Ziopharm Oncology Inc
+ZIPR	Ziprealty Inc
+ZIV	Daily Inverse VIX Mt ETN Velocityshares
+ZIXI	Zix Corp
+ZLCS	Zalicus Inc
+ZN	Zion Oil & Gas Inc
+ZOLT	Zoltek Companies
+ZOOM	Zoom Technologies
+ZUMZ	Zumiez Inc
