@@ -10,4 +10,4 @@ Book info:
 - ISBN: 9781107150751  
 - URL: https://www.cambridge.org/us/academic/subjects/statistics-probability/statistics-econometrics-finance-and-insurance/financial-analytics-r-building-laptop-laboratory-data-science
 
-Updated 11/18/2021
+Updated 11/18/2021 - again
